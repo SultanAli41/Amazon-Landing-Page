@@ -6,7 +6,7 @@ This project replicates the look and layout of Amazon’s homepage for learning 
 ---
 
 ## 📸 Preview
-[Amazon Landing Page Screenshot](Videos/preview.mp4)
+[Amazon Landing Page Screenshot](Video/preview.mp4)
 
 ---
 
